@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/bike-ride-booking-and-tracking-app-189035-189047/bike_taxi_backend"
+}
